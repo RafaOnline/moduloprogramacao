@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "EXERC.C": "cpp",
+        "&&.C": "cpp",
+        "&& copy.C": "cpp",
+        "or.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
