@@ -1,4 +1,4 @@
-## Linguagem C
+## Linguagem C básico
 
 Estudos realizado em linguagem C 
 Módulo programação, graduação em ADS
@@ -14,4 +14,5 @@ IF, ELSE, SWITCH
 Loops
 
 Arrays
+
 
